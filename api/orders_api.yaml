@@ -6,7 +6,7 @@ info:
   contact:
     name: IBM Corporation
     url: https://www.ibm.com/products/api-connect
-  version: 2.0.0
+  version: 2.0.1
   x-ibm-name: ibm-sample-order-api-ttbonn1
 externalDocs:
   description: "Github project for this API, containing source code and deployment\
