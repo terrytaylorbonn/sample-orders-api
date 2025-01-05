@@ -11,7 +11,7 @@ info:
 externalDocs:
   description: "Github project for this API, containing source code and deployment\
     \ pipeline"
-  url: https://github.com/ibm-apiconnect/sample-orders-api
+  url: https://github.com/terrytaylorbonn/sample-orders-api
 servers:
 - url: /order
 security:
